@@ -5,7 +5,7 @@ from keras.models import load_model
 from keras.preprocessing.sequence import pad_sequences
 
 # Load model and tokenizer
-model = load_model('next_word_lstm.h5')
+model = load_model('next_word_lstm.h5', compile=False)
 with open('tokenizer.pickle', 'rb') as handle:
     tokenizer = pickle.load(handle)
 
