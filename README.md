@@ -100,4 +100,4 @@ It contains classic Sherlock Holmes stories by Sir Arthur Conan Doyle, used to t
 
 You're welcome to explore the app by visiting the link provided below.
 
-👉 [Try Yourself](https://imdb-sentiment-classifier-kaowhvyzkasbhy2vuhlcmp.streamlit.app/)
+👉 [Try Yourself](https://sherlocknext-pcvgrdt4sbjnyuycyamqbh.streamlit.app/)
